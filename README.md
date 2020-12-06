@@ -30,5 +30,5 @@ Version 2019 [April 2019](https://visualstudio.microsoft.com/vs/)
 
 ## License
 
-This project is licensed under the MIT License - see the [LICENSE.md]() file for details
+This project is licensed under the MIT License - see the [LICENSE.md](https://github.com/sarabDevOps/WidowsMobileApp-UWP--ghostHunter/blob/main/LICENSE) file for details
 

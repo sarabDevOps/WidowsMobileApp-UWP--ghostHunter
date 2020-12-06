@@ -6,7 +6,8 @@
  
  ## Prerequisites 
  Before you continue , ensure you met the following requirments.
-  * Unordered sub-list.
+  * In order to run the app you must first have Visual Studio .[downloadVisualStudio](https://www.microsoft.com/en-ie/p/visual-studio-professional-2019/dg7gmgf0f6q1?cid=msft_web_collection&activetab=pivot%3aoverviewtab)
+  * 
 
 
 

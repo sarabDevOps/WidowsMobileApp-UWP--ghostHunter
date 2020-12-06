@@ -6,8 +6,7 @@
  
  ## Prerequisites 
  Before you continue , ensure you met the following requirments.
- 
- ⋅⋅* Unordered sub-list.
+  * Unordered sub-list.
 
 
 

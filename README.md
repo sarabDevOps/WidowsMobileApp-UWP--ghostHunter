@@ -1,6 +1,6 @@
 # WidowsMobileApp-UWP--ghostHunter
 
-![alt text](https://github.com/sarabDevOps/WidowsMobileApp-UWP--ghostHunter/blob/main/ghostHunter/gamePic.PNG)
+![alt text](https://github.com/sarabDevOps/WidowsMobileApp-UWP--ghostHunter/blob/main/ghostHunter/gamePic.PNG =250x)
 
 ## Overview 
  The project is made for as a part of college work , Module - MOBILE PROGRAMMING.
